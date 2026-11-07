@@ -1,0 +1,344 @@
+{
+  "mangaeditor/__init__.py": {
+    "mtime": 1794062573.0483043,
+    "seen": 1794063312.5071907,
+    "ast_hash": "d3d563d497ed32985374af34d3ad34ff",
+    "semantic_hash": ""
+  },
+  "mangaeditor/__main__.py": {
+    "mtime": 1793993567.0677538,
+    "seen": 1794005452.9654517,
+    "ast_hash": "0c1410c34c64efca0154fd04861ad6f9",
+    "semantic_hash": "0c1410c34c64efca0154fd04861ad6f9"
+  },
+  "mangaeditor/app.py": {
+    "mtime": 1794062573.8533862,
+    "seen": 1794063312.5071907,
+    "ast_hash": "ed77bf44da3bc9c026ead51c72f9c16d",
+    "semantic_hash": ""
+  },
+  "mangaeditor/core/__init__.py": {
+    "mtime": 1794062550.3910778,
+    "seen": 1794063312.5071907,
+    "ast_hash": "ffbb9c3e1479d0459f83b507f67d0203",
+    "semantic_hash": ""
+  },
+  "mangaeditor/core/commands.py": {
+    "mtime": 1794062549.567595,
+    "seen": 1794063312.5071907,
+    "ast_hash": "cd08c7b8ace4bec9dbd35a9c687841f9",
+    "semantic_hash": ""
+  },
+  "mangaeditor/core/compose.py": {
+    "mtime": 1794062581.8653717,
+    "seen": 1794063312.5071907,
+    "ast_hash": "ea5d66e7639259714edb69a17010c739",
+    "semantic_hash": ""
+  },
+  "mangaeditor/core/fonts.py": {
+    "mtime": 1794062552.787114,
+    "seen": 1794063312.5071907,
+    "ast_hash": "54655fa4835c5fe460205a8062a707a4",
+    "semantic_hash": ""
+  },
+  "mangaeditor/core/imageio.py": {
+    "mtime": 1794062387.1926935,
+    "seen": 1794063312.5071907,
+    "ast_hash": "0a56b84b0f86d120531747c69dc31763",
+    "semantic_hash": ""
+  },
+  "mangaeditor/core/page.py": {
+    "mtime": 1794062434.1198266,
+    "seen": 1794063312.5071907,
+    "ast_hash": "731d1837f3e7301ffe174aec4f9001b2",
+    "semantic_hash": ""
+  },
+  "mangaeditor/core/stroke.py": {
+    "mtime": 1794062545.5049605,
+    "seen": 1794063312.5071907,
+    "ast_hash": "78819e9946e831e7efca48fa3ca2b424",
+    "semantic_hash": ""
+  },
+  "mangaeditor/core/text_data.py": {
+    "mtime": 1794062542.2303467,
+    "seen": 1794063312.5071907,
+    "ast_hash": "c59ed30eac3ea8da7cd6be297c729226",
+    "semantic_hash": ""
+  },
+  "mangaeditor/core/text_layout.py": {
+    "mtime": 1794062510.9323862,
+    "seen": 1794063312.5071907,
+    "ast_hash": "29fc2a580255b3f9e38406b0ebbbac2c",
+    "semantic_hash": ""
+  },
+  "mangaeditor/ui/__init__.py": {
+    "mtime": 1794062574.685804,
+    "seen": 1794063312.5071907,
+    "ast_hash": "564d92d7fcead74ac75bbb28b4aa9d44",
+    "semantic_hash": ""
+  },
+  "mangaeditor/ui/canvas_view.py": {
+    "mtime": 1794062089.30171,
+    "seen": 1794063312.5071907,
+    "ast_hash": "6cfc8e45d4f0ff3d138f00ac72a36d52",
+    "semantic_hash": ""
+  },
+  "mangaeditor/ui/icons.py": {
+    "mtime": 1794062194.5001664,
+    "seen": 1794063312.5071907,
+    "ast_hash": "5808916dda822e4a1e5d1e842d979b4b",
+    "semantic_hash": ""
+  },
+  "mangaeditor/ui/main_window.py": {
+    "mtime": 1794062397.484407,
+    "seen": 1794063312.5071907,
+    "ast_hash": "1f721a8774d662c9f311f039a5cc032a",
+    "semantic_hash": ""
+  },
+  "mangaeditor/ui/page_scene.py": {
+    "mtime": 1794062248.7097588,
+    "seen": 1794063312.5071907,
+    "ast_hash": "d45902f8de21e52f721a02827457408d",
+    "semantic_hash": ""
+  },
+  "mangaeditor/ui/paint_item.py": {
+    "mtime": 1794062195.3328793,
+    "seen": 1794063312.5071907,
+    "ast_hash": "7d59bbec334acc09347463afbd8f2b0a",
+    "semantic_hash": ""
+  },
+  "mangaeditor/ui/panels.py": {
+    "mtime": 1794062157.0494423,
+    "seen": 1794063312.5071907,
+    "ast_hash": "f19636db138d9613b442cfca6374b819",
+    "semantic_hash": ""
+  },
+  "mangaeditor/ui/style.py": {
+    "mtime": 1794062311.521581,
+    "seen": 1794063312.5071907,
+    "ast_hash": "76841c3b1b8b4c5f12ecd597f621d7b5",
+    "semantic_hash": ""
+  },
+  "mangaeditor/ui/text_item.py": {
+    "mtime": 1794062273.1887305,
+    "seen": 1794063312.5071907,
+    "ast_hash": "ce77b81c314eb0041b4b638e7771a57f",
+    "semantic_hash": ""
+  },
+  "mangaeditor/ui/text_panel.py": {
+    "mtime": 1794062822.2211273,
+    "seen": 1794063312.5071907,
+    "ast_hash": "69acefc674480f23dc2269f498a0b66c",
+    "semantic_hash": ""
+  },
+  "mangaeditor/ui/tools.py": {
+    "mtime": 1794062172.3781228,
+    "seen": 1794063312.5071907,
+    "ast_hash": "da91ca8e374f6203b0df7e2490db5437",
+    "semantic_hash": ""
+  },
+  "mangaeditor/ui/widgets.py": {
+    "mtime": 1794062201.895771,
+    "seen": 1794063312.5071907,
+    "ast_hash": "f5694cd3f6a76e3983b6d9bfa12bffca",
+    "semantic_hash": ""
+  },
+  "mangaeditor/core/export.py": {
+    "mtime": 1794062603.1120229,
+    "seen": 1794063312.5071907,
+    "ast_hash": "dc0ef43fff626c54d11c3b85082d79b8",
+    "semantic_hash": ""
+  },
+  "mangaeditor/core/project.py": {
+    "mtime": 1794062334.3365176,
+    "seen": 1794063312.5071907,
+    "ast_hash": "a8f95dbac13985d91a902da3583b9b48",
+    "semantic_hash": ""
+  },
+  "mangaeditor/ui/dialogs.py": {
+    "mtime": 1794062050.0989053,
+    "seen": 1794063312.5071907,
+    "ast_hash": "2dc4a77c7b6591fbdce410cf8c20c8e5",
+    "semantic_hash": ""
+  },
+  ".serena/project.yml": {
+    "mtime": 1793993774.2567334,
+    "seen": 1794011666.163422,
+    "ast_hash": "d6039456f8aad6abd5ea41cb36d52173",
+    "semantic_hash": ""
+  },
+  "build.ps1": {
+    "mtime": 1794062583.4915984,
+    "seen": 1794063312.5071907,
+    "ast_hash": "cd292e4df727fb655e17536d16c76a92",
+    "semantic_hash": ""
+  },
+  "mangaeditor/core/clone.py": {
+    "mtime": 1794062472.1392982,
+    "seen": 1794063312.5071907,
+    "ast_hash": "5924783261dd54d7a932c031a1d5cae9",
+    "semantic_hash": ""
+  },
+  "mangaeditor/ui/shortcuts.py": {
+    "mtime": 1794062119.0537703,
+    "seen": 1794063312.5071907,
+    "ast_hash": "e0d9b405d6c1e1387bb85e3cc239a2da",
+    "semantic_hash": ""
+  },
+  "mangaeditor/ui/shortcuts_dialog.py": {
+    "mtime": 1794062138.8338053,
+    "seen": 1794063312.5071907,
+    "ast_hash": "9bcbaac977adb8b4751204d8e5e524f6",
+    "semantic_hash": ""
+  },
+  "run.py": {
+    "mtime": 1794062575.4925096,
+    "seen": 1794063312.5071907,
+    "ast_hash": "074f5d562eed9f06fc2c64055df32fe9",
+    "semantic_hash": ""
+  },
+  "tests/conftest.py": {
+    "mtime": 1794063149.3964522,
+    "seen": 1794063312.5071907,
+    "ast_hash": "aa5c76dbda278960a02bcf31a6b12844",
+    "semantic_hash": ""
+  },
+  "tests/test_phase1_canvas.py": {
+    "mtime": 1794063149.3964522,
+    "seen": 1794063312.5071907,
+    "ast_hash": "32c56a6d8a271f9e0205cd4adf7e1f2c",
+    "semantic_hash": ""
+  },
+  "tests/test_phase2_tools.py": {
+    "mtime": 1794063063.4166098,
+    "seen": 1794063312.5071907,
+    "ast_hash": "36b9edde98db2b2d61db9866209c627d",
+    "semantic_hash": ""
+  },
+  "tests/test_phase3_text_layout.py": {
+    "mtime": 1794063149.3964522,
+    "seen": 1794063312.5071907,
+    "ast_hash": "2aee22a48d7d4e3a0c9ec611cfe8907c",
+    "semantic_hash": ""
+  },
+  "tests/test_phase3_text_ui.py": {
+    "mtime": 1794063149.3964522,
+    "seen": 1794063312.5071907,
+    "ast_hash": "2f0f78902c0dfb13ef4f8241f1f3a07d",
+    "semantic_hash": ""
+  },
+  "tests/test_phase4_merge.py": {
+    "mtime": 1794063149.3964522,
+    "seen": 1794063312.5071907,
+    "ast_hash": "e43f01e85d312248e32847960d7454fa",
+    "semantic_hash": ""
+  },
+  "tests/test_phase5_pages.py": {
+    "mtime": 1794063149.3964522,
+    "seen": 1794063312.5071907,
+    "ast_hash": "19e67548475455dea7d8656fd753d563",
+    "semantic_hash": ""
+  },
+  "tests/test_phase6_project.py": {
+    "mtime": 1794063149.3964522,
+    "seen": 1794063312.5071907,
+    "ast_hash": "e812a93cc9c92d5b1ddf26e19c535443",
+    "semantic_hash": ""
+  },
+  "tests/test_phase7_export.py": {
+    "mtime": 1794063149.3964522,
+    "seen": 1794063312.5071907,
+    "ast_hash": "57a8c5061d3b61112ecbd59001984295",
+    "semantic_hash": ""
+  },
+  "tests/test_phase8_ui.py": {
+    "mtime": 1794063149.3964522,
+    "seen": 1794063312.5071907,
+    "ast_hash": "cc01cd19434acb7a0ecb03f8a0594228",
+    "semantic_hash": ""
+  },
+  "tests/test_v2_save_output.py": {
+    "mtime": 1794063122.3537474,
+    "seen": 1794063312.5071907,
+    "ast_hash": "3970ba0ae7494ac913b2cbc233d36fb0",
+    "semantic_hash": ""
+  },
+  "tests/test_v3_clone_core.py": {
+    "mtime": 1794063122.3541245,
+    "seen": 1794063312.5071907,
+    "ast_hash": "e5c68d70b3b19e3fc4f6e89e9d477418",
+    "semantic_hash": ""
+  },
+  "tests/test_v3_clone_ui.py": {
+    "mtime": 1794063138.3367884,
+    "seen": 1794063312.5071907,
+    "ast_hash": "fdb425667cfbe79933e903c23e1c8f2d",
+    "semantic_hash": ""
+  },
+  "tests/test_v3_eyedropper.py": {
+    "mtime": 1794063149.3964522,
+    "seen": 1794063312.5071907,
+    "ast_hash": "3d8af8b45c96399b0f6872d5f48373a0",
+    "semantic_hash": ""
+  },
+  "tests/test_v3_shortcuts.py": {
+    "mtime": 1794063149.3964522,
+    "seen": 1794063312.5071907,
+    "ast_hash": "974d86a5186683314e5cfb0063e2d4e7",
+    "semantic_hash": ""
+  },
+  ".serena/memories/architecture_overview.md": {
+    "mtime": 1794017898.6007893,
+    "seen": 1794017942.6697886,
+    "ast_hash": "4732cfc1aa9a0cf708646fa602e26f30",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1794063019.2776904,
+    "seen": 1794063312.5071907,
+    "ast_hash": "1f0ff47d9e79929d7d406cbff2509998",
+    "semantic_hash": ""
+  },
+  "requirements-dev.txt": {
+    "mtime": 1794062576.296259,
+    "seen": 1794063312.5071907,
+    "ast_hash": "82f8e44983804c5efe77a74f3fed884d",
+    "semantic_hash": ""
+  },
+  "requirements.txt": {
+    "mtime": 1793993565.4678237,
+    "seen": 1794011666.163422,
+    "ast_hash": "b45901827c0bd80db83ef8559dd39c57",
+    "semantic_hash": ""
+  },
+  "tests/test_v4_clone_modes.py": {
+    "mtime": 1794063156.8614266,
+    "seen": 1794063312.5071907,
+    "ast_hash": "266f801e08291abd959e013ffc6c241a",
+    "semantic_hash": ""
+  },
+  "tests/test_v5_fixed_source_area.py": {
+    "mtime": 1794063156.8614266,
+    "seen": 1794063312.5071907,
+    "ast_hash": "ba17acdd7e4ddcdbb3a7da0316e70a9a",
+    "semantic_hash": ""
+  },
+  "mangaeditor/i18n.py": {
+    "mtime": 1794062029.1778321,
+    "seen": 1794063312.5071907,
+    "ast_hash": "dba05c2daaef2ae77a6b2e207ffdd1ec",
+    "semantic_hash": ""
+  },
+  "mangaeditor/translations.py": {
+    "mtime": 1794062823.0158918,
+    "seen": 1794063312.5071907,
+    "ast_hash": "4eb7d614b52446cc67bec0fbecda8a7f",
+    "semantic_hash": ""
+  },
+  "tests/test_i18n.py": {
+    "mtime": 1794062918.5311153,
+    "seen": 1794063312.5071907,
+    "ast_hash": "7b2bdb2a1ea276e7fbf81dff98ee1a68",
+    "semantic_hash": ""
+  }
+}

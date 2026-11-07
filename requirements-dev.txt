@@ -1,0 +1,4 @@
+-r requirements.txt
+pytest>=8
+# Tests only: used to generate TTF/OTF fonts that are not installed on the system.
+fonttools>=4.50
